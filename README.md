@@ -1,7 +1,7 @@
 # JavaScript Password Generator
 
 ## Module Challenge 3
-User store: create an application that a user can use to generate a random password based on selected criteria.
+Create an application that a user can use to generate a random password based on selected criteria.
 
 ## Screenshots of Application
 
