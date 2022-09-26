@@ -1,7 +1,7 @@
 # JavaScript Password Generator
 
 ## Module Challenge 3
-Take the given starter code and refactor it into a dynamically responding, mobile friendly website. 
+User store: create an application that a user can use to generate a random password based on selected criteria.
 
 ## Screenshots of Application
 
