@@ -39,15 +39,16 @@ header {
 }
 
 .card {
-  background-color: hsl(0, 0%, 100%);
+  background-color: var(--white);
   border-radius: 5px;
   border-width: 1px;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
   color: hsl(206, 17%, 28%);
   font-size: 18px;
-  margin: 0 auto;
-  max-width: calc(800px + 2vw);
-  padding: 30px 40px;
+  margin: calc(30px + .5vw) auto;
+  max-width: calc(800px + 15vw);
+  padding: calc(30px + .5vw) calc(40px + .5vw);
+  transition: all 950ms ease;
 }
 
 .card-header::after {
@@ -83,17 +84,24 @@ header {
 .btn {
   border: none;
   background-color: var(--theme1);
-  border-radius: 25px;
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
-    0px;
+  border-radius: 100px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px 0px;
   color: var(--white);
   display: inline-block;
   font-size: 22px;
   line-height: 22px;
   margin: 16px 16px 16px 20px;
-  padding: 14px 34px;
+  padding: calc(14px + .5vw) calc(34px + .5vw);
   text-align: center;
   cursor: pointer;
+  transition: all 950ms ease;
+}
+
+.btn:hover {
+  transform: scale(1.5);
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px 0px;
+  transition: all 950ms ease;
+
 }
 
 button[disabled] {
