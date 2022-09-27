@@ -46,7 +46,7 @@ header {
   color: hsl(206, 17%, 28%);
   font-size: 18px;
   margin: calc(30px + .5vw) auto;
-  max-width: calc(800px + 15vw);
+  max-width: calc(800px + 5vw);
   padding: calc(30px + .5vw) calc(40px + .5vw);
   transition: all 950ms ease;
 }
@@ -99,7 +99,7 @@ header {
 
 .btn:hover {
   transform: scale(1.5);
-  box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px 0px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 15px 10px rgba(0, 0, 0, 0.2) 0px 1px 1px 0px;
   transition: all 950ms ease;
 
 }
