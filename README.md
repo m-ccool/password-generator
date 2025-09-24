@@ -1,4 +1,5 @@
-# JavaScript Password Generator
+# Password Generator
+Using .js, .html, .css
 
 ## Module Challenge 3
 Create an application that a user can use to generate a random password based on selected criteria.
