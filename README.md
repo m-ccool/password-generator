@@ -1,7 +1,7 @@
 # Password Generator
 Using .js, .html, .css
 
-**[ @mc-cool on github ](https://m-ccool.github.io/password-generator/)**
+**[ 🔗 password generator ](https://m-ccool.github.io/password-generator/)**
 
 
 ## Module Challenge 3
