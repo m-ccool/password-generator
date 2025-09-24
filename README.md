@@ -1,10 +1,7 @@
 # Password Generator
 Using .js, .html, .css
 
-**Deployed Application**
-**[ deployed application ]((https://m-ccool.github.io/password-generator/))**
-
-**[  deployed application ]([https://github.com/m-ccool](https://m-ccool.github.io/password-generator/))**
+**[ @mc-cool on github ](https://m-ccool.github.io/password-generator/)**
 
 
 ## Module Challenge 3
