@@ -10,7 +10,7 @@ Create an application that a user can use to generate a random password based on
 
 
 ## Deployed Application
-**[🔗 deployed application ⭐](https://m-ccool.github.io/JavaScript-Password-Generator/)**
+**[ deployed application ]((https://m-ccool.github.io/password-generator/))**
 https://m-ccool.github.io/JavaScript-Password-Generator/
 
 ## Author
