@@ -41,7 +41,7 @@ header {
 .card {
   background-color: var(--white);
   border-radius: 5px;
-  border-width: 1px;
+  border-width: 0px;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
   color: hsl(206, 17%, 28%);
   font-size: 18px;
